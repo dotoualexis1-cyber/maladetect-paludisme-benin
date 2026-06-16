@@ -1,7 +1,7 @@
 # 🦟 MalaDetect — Détection du Paludisme au Bénin par IA
 
 ## 📌 Description
-MalaDetect est un projet d'intelligence artificielle développé dans le cadre du Hackathon Santé Y'ello Care 2026. Il utilise le Machine Learning pour détecter le risque de paludisme à partir des symptômes du patient.
+MalaDetect est un projet d'intelligence artificielle développé dans le cadre de la Santé . Il utilise le Machine Learning pour détecter le risque de paludisme à partir des symptômes du patient.
 
 ## 🎯 Objectif
 Aider les populations du Bénin à identifier rapidement un risque de paludisme pour consulter un médecin à temps et sauver des vies.
